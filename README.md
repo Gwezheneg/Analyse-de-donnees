@@ -1,2 +1,2 @@
 # Projet_Python
-Dossier regroupant quelques projet en python
+Dossier regroupant quelques projets en Python.
