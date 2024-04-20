@@ -1,0 +1,1 @@
+nom_du_module==version_du_module
