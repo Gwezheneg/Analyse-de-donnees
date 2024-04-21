@@ -8,7 +8,7 @@ Voice un dossier regroupant quelques projets en Python.
 Le dossier s'organise en plusieurs parties :
 
 * librairies
-  * [ ] Des guides d'introduction à Numpy,
+  * Des guides d'introduction à Numpy,
   * Pandas,
   * Matplotlib,
   * Statsmodels, etc.
@@ -17,4 +17,5 @@ Le dossier s'organise en plusieurs parties :
 * économétrie et statistiques appliqués en Python (ex: mco et autres)
 * Optimisation (peut être)
 
-Le projet est en cours de construction et se verra pleinement actif durant ==l'été== qui arrive.
+[x] Le projet est en cours de construction et se verra pleinement actif durant l'été qui arrive. :grin:
+
