@@ -19,3 +19,7 @@ Le dossier s'organise en plusieurs parties :
 
 [x] Le projet est en cours de construction et se verra pleinement actif durant l'été qui arrive. :grin:
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
