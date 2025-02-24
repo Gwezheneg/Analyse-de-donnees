@@ -2,7 +2,7 @@ Listes des librairies utiliser pour le projet
 
 pandas (pd)
 numpy (np)
-missingo (msno)
+missingno (msno)
 seaborn (sns)
 matplotlib.pyplot (plt)
 matplotlib.patches (mpatches)
