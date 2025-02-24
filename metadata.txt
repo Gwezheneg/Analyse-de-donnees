@@ -1,0 +1,41 @@
+price : le prix du bien en roupie indienne par mois
+
+price_per_sqft : le prix du bien en roupie par mètre par pied
+
+photos_count : le nombre de photos de l'annonce
+
+furnishing : Furnished si le bien est meublé
+             Semi-Furnished si le bien est semi-meublé
+             Unfurnished si le bien est meublé
+
+bedroom : le nombre de chambres
+
+bathroom : le nombre de salle de bain du bien
+
+tenant_preferred : le type de locataire privligié
+
+availability : Immediately si le bien est disponible tout de suite
+
+num_floor : l'étage du bien
+
+area : surface du bien loué
+
+facing : l'orientation du bien
+
+overlooking	: Garden/Park; Garden/Park, Main Road; Garden/Park, Main Road, Pool; Garden/Park, Pool; Main Road; Pool
+
+ownership : freehold, co-operative society, leasehold, power of attorney
+
+balcony : le nombre de balcon
+
+nb_caract_descript : le nombre de caractère de la description du bien
+
+contact	: agent / owner
+
+operating_since	: année d'opération de l'agent immobilier
+
+buyers_served : nombre de clients servi par l'agent immobilier
+
+description	: la description du bien
+
+titre : le titre de l'annonce
