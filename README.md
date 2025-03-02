@@ -3,6 +3,8 @@
 Lien Binder : 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Raibaru-designer/Dossier/HEAD)
 
+https://hub.2i2c.mybinder.org/user/gwezheneg-analyse-de-donnees-a63sjbdu/doc/tree/Projet.ipynb
+
 Voice un dossier regroupant quelques projets en Python.
 
 Le dossier s'organise en plusieurs parties :
