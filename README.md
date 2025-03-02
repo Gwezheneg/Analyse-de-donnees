@@ -1,9 +1,10 @@
 # Projet Python
 
 Lien Binder : 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Raibaru-designer/Dossier/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gwezheneg/Analyse-de-donnees/tree/main/HEAD)
 
 https://hub.2i2c.mybinder.org/user/gwezheneg-analyse-de-donnees-a63sjbdu/doc/tree/Projet.ipynb
+
 
 Voice un dossier regroupant quelques projets en Python.
 
