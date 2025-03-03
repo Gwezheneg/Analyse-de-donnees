@@ -1,7 +1,7 @@
 Lien Binder : 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gwezheneg/Analyse-de-donnees/main?filepath=Projet.ipynb)
 
-# 🏡 Analyse du marché locatif à New Delhi - MagicBricks 📊
+# 🏡 Analyse du marché locatif à New Delhi 📊
 
 ## 📌 Présentation du projet
 
