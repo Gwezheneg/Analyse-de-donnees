@@ -2,26 +2,39 @@ Lien Binder :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gwezheneg/Analyse-de-donnees/main?filepath=Projet.ipynb)
 
 # 🏡 Analyse du marché locatif à New Delhi - MagicBricks 📊
+
 ## 📌 Présentation du projet
+
 Ce projet a été créé dans le cadre d’un cours en L3 Double Licence Economie et Gestion (parcours DU CUPGE : DU Classe universitaire Préparatoire aux Grandes Ecoles) à l’université du Mans.
 
 Il vise à analyser le marché locatif à New Delhi en utilisant des techniques avancées d'analyse de données. Grâce au web scraping, nous avons extrait des données d’annonces immobilières depuis le site MagicBricks, puis nous les avons nettoyées, explorées et préparées pour des analyses approfondies. Le projet a été entièrement réaliser en Python.
 Les objectifs principaux sont :
+
 ✔️ Comprendre les tendances du marché locatif à New Delhi.
+
 ✔️ Identifier les facteurs influençant les loyers.
+
 ✔️ Détecter les valeurs aberrantes et les incohérences.
+
 ✔️ Fournir une base pour une modélisation prédictive des loyers.
 
 --- 
 
 ## 📂 Structure du projet
 📁 Analyse-de-donnes
+
 │── 📄 README.md           # Présentation du projet
+
 │── 📄 requirements.txt    # Liste des dépendances Python
+
 │── 📄 Projet.ipynb        # Notebook du projet
+
 │── 📄 metadata.txt        # Description des variables
+
 │── 📄 LICENSE.txt         # La licence du projet
+
 │── 📁 data                # Dossier contenant les données brutes et nettoyées
+
 │── 📁 images              # Différentes images nécessaires au projet
 
 ---
