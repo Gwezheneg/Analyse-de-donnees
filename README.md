@@ -15,7 +15,7 @@ Les objectifs principaux sont :
 - Détecter les valeurs aberrantes et les incohérences.
 - Fournir une base pour une modélisation prédictive des loyers.
 
- Vous pouvez lire le [Résumé du projet](https://github.com/Gwezheneg/Analyse-de-donnees/edit/main/Résumé%20du%20Projet.pdf) pour comprendre la démarche et le déroulement du projet. Vous pouvez également cliquer sur le lien [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gwezheneg/Analyse-de-donnees/main?filepath=Projet.ipynb) pour avoir un accès interractif avec le projet et ainsi pouvoir lancer le NoteBook.
+ Vous pouvez lire le [Résumé du projet](https://github.com/Gwezheneg/Analyse-de-donnees/blob/main/R%C3%A9sum%C3%A9%20du%20Projet.pdf) pour comprendre la démarche et le déroulement du projet.
 
 ## 📂 Structure du projet
 📁 Analyse-de-donnes
@@ -37,7 +37,7 @@ Les objectifs principaux sont :
 │── 📁 images              # Différentes images nécessaires au projet
 
 ## 🚀 Interactivité - Lancer le projet
-Cliquer sur le badge Binder, cela ouvre un environnement JupyterHub. Puis exécutez le fichier **Projet.ipynb** pour voir les analyses et modifier le fichier si besoin.
+Cliquez sur le badge [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gwezheneg/Analyse-de-donnees/main?filepath=Projet.ipynb), cela ouvre un environnement JupyterHub. Puis exécutez le fichier **Projet.ipynb** pour voir les analyses et modifier le fichier si besoin.
 
 ## 📜 Licence
 Ce projet est sous licence **MIT**. Vous êtes libre de l’utiliser et de le modifier sous réserve de mentionner l’auteur original.
