@@ -13,7 +13,9 @@ Les objectifs principaux sont :
 - Comprendre les tendances du marché locatif à New Delhi.
 - Identifier les facteurs influençant les loyers.
 - Détecter les valeurs aberrantes et les incohérences.
-- Fournir une base pour une modélisation prédictive des loyers. 
+- Fournir une base pour une modélisation prédictive des loyers.
+
+ Vous pouvez lire le [Résumé du projet](https://github.com/Gwezheneg/Analyse-de-donnees/edit/main/Résumé-du-Projet.pdf) pour comprendre la démarche et le déroulement du projet. Vous pouvez également cliquer sur le lien [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gwezheneg/Analyse-de-donnees/main?filepath=Projet.ipynb) pour avoir un accès interractif avec le projet et ainsi pouvoir lancer le NoteBook.
 
 ## 📂 Structure du projet
 📁 Analyse-de-donnes
@@ -23,6 +25,8 @@ Les objectifs principaux sont :
 │── 📄 requirements.txt    # Liste des dépendances Python
 
 │── 📄 Projet.ipynb        # Notebook du projet
+
+│── 📄 Résumé du Projet.pdf
 
 │── 📄 metadata.txt        # Description des variables
 
