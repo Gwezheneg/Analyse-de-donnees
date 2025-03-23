@@ -15,7 +15,7 @@ Les objectifs principaux sont :
 - Détecter les valeurs aberrantes et les incohérences.
 - Fournir une base pour une modélisation prédictive des loyers.
 
- Vous pouvez lire le [Résumé du projet](https://github.com/Gwezheneg/Analyse-de-donnees/edit/main/Résumé-du-Projet.pdf) pour comprendre la démarche et le déroulement du projet. Vous pouvez également cliquer sur le lien [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gwezheneg/Analyse-de-donnees/main?filepath=Projet.ipynb) pour avoir un accès interractif avec le projet et ainsi pouvoir lancer le NoteBook.
+ Vous pouvez lire le [Résumé du projet](https://github.com/Gwezheneg/Analyse-de-donnees/edit/main/Résumé%20du%20Projet.pdf) pour comprendre la démarche et le déroulement du projet. Vous pouvez également cliquer sur le lien [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gwezheneg/Analyse-de-donnees/main?filepath=Projet.ipynb) pour avoir un accès interractif avec le projet et ainsi pouvoir lancer le NoteBook.
 
 ## 📂 Structure du projet
 📁 Analyse-de-donnes
