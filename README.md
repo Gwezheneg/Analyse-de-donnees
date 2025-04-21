@@ -15,10 +15,12 @@ Les objectifs principaux sont :
 - Détecter les valeurs aberrantes et les incohérences.
 - Fournir une base pour une modélisation prédictive des loyers.
 
- Vous pouvez lire le [Résumé du projet](https://github.com/Gwezheneg/Analyse-de-donnees/blob/main/R%C3%A9sum%C3%A9%20du%20Projet.pdf) pour comprendre la démarche et le déroulement du projet.
+ Vous pouvez lire le [Résumé du projet](https://github.com/Gwezheneg/Analyse-de-donnees/blob/main/R%C3%A9sum%C3%A9%20du%20Projet.pdf) pour comprendre la démarche et le déroulement du projet et télécharger le document en version écrite [ici](https://github.com/Gwezheneg/Analyse-de-donnees/blob/main/Dossier.pdf)
 
 ## 📂 Structure du projet
 📁 Analyse-de-donnes
+
+│── 📄 Dossier.pdf         # Document contenant le projet en version écrite
 
 │── 📄 README.md           # Présentation du projet
 
