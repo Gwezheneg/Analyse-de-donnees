@@ -1,4 +1,5 @@
-Lien Binder : 
+Lien Binder (code only) : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gwezheneg/Analyse-de-donnees/HEAD?urlpath=%2Fdoc%2Ftree%2FProjet%2520-%2520Full%2520Code.ipynb)
+Lien Binder (full project) : 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gwezheneg/Analyse-de-donnees/main?filepath=Projet.ipynb)
 
 # 🏡 Analyse du marché locatif à New Delhi 📊
